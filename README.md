@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24297652&psig=AOvVaw2xrRL0kMYesMKO43w7Xpa-&ust=1682506852652000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCNjPnNfwxP4CFQAAAAAdAAAAABAI)]
+[![MasterHead](https://tenor.com/view/coding-gif-24297652)]
 
 <h1 align="center">Hi 👋, I'm Adin Rikisahedew</h1>
 <h3 align="center">I am a Graduate Intern at Ignition Group Umhlanga, in the DevOps field</h3>
