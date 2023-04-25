@@ -1,5 +1,5 @@
 
-[![MasterHead](https://thumbs.gfycat.com/ElegantHalfAmericancicada-size_restricted.gif)]
+![MasterHead](https://thumbs.gfycat.com/ElegantHalfAmericancicada-size_restricted.gif)
 
 <h1 align="center">Hi 👋, I'm Adin Rikisahedew</h1>
 <h3 align="center">I am a Graduate Intern at Ignition Group Umhlanga, in the DevOps field</h3>
