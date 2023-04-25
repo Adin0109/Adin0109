@@ -2,7 +2,7 @@
 <html>
 <h1 align="center">Hi 👋, I'm Adin Rikisahedew</h1>
 <h3 align="center">I am a Graduate Intern at Ignition Group Umhlanga, in the DevOps field</h3>
-<img align="center" ald="Coding" width="400" src="https://tenor.com/view/coding-gif-24625099">
+<img align="center" ald="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adin0109" alt="adin0109" /></a> </p>
 
 - 📫 How to reach me **adinrikisahedew00@gmail.com**
