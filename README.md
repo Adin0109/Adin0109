@@ -1,5 +1,5 @@
 
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU)
+![MasterHead](align="center" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU)
 
 <h1 align="center">Hi 👋, I'm Adin Rikisahedew</h1>
 <h3 align="center">I am a Graduate Intern at Ignition Group Umhlanga, in the DevOps field</h3>
